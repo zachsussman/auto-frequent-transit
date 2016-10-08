@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/3.4/bin/python3
+#!/usr/bin/env python3
 import pygtfs
 import datetime
 import warnings
@@ -464,7 +464,7 @@ parser.add_argument("--loc", nargs=2, type=float, help="Latitude and longitude o
 parser.add_argument("input_file", help="GTFS or sqlite file")
 parser.add_argument("output_file", help=".js file to be included in map page")
 
-args = parser.parse_args("-lv --loc 39.0885719 -94.6102375 -c gainesville.frq gainesville.sqlite lines.js".split())
+args = parser.parse_args()
 LABELS = args.label
 if args.verbose:
     log = internal_log
