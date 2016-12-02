@@ -1,7 +1,7 @@
 # auto-frequent-transit
 Automatically generated frequent transit maps.  
 
-Demos at [zacharysussman.com/frequent.html](zacharysussman.com/frequent.html).
+Demos at [zacharysussman.com/frequent.html](http://zacharysussman.com/frequent.html).
 
 ## Details
 When you ride the bus, one of the most important things you ask yourself is "how often does the bus come?" If that answer is "once an hour," you'll either need to really plan your trip, or just not use the bus at all. In contrast, if that answer is more like "every few minutes," you can just walk up to the stop and be confident that even though you don't know when the bus will come, it will come soon. Because people usually hate waiting around, the more frequently a bus comes, the more useful it is. In fact, Jarrett Walker, an experienced transit planner with his own blog called Human Transit, often says:
