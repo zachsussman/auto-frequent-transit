@@ -5,7 +5,9 @@ Demos at [zacharysussman.com/frequent.html](http://zacharysussman.com/frequent.h
 
 ## Details
 When you ride the bus, one of the most important things you ask yourself is "how often does the bus come?" If that answer is "once an hour," you'll either need to really plan your trip, or just not use the bus at all. In contrast, if that answer is more like "every few minutes," you can just walk up to the stop and be confident that even though you don't know when the bus will come, it will come soon. Because people usually hate waiting around, the more frequently a bus comes, the more useful it is. In fact, Jarrett Walker, an experienced transit planner with his own blog called Human Transit, often says:
+
 >Frequency is freedom.
+
 He expands in his post "The Ridership Recipe":
 
 >People who are used to getting around by a private vehicle (car or bike) often underestimate the importance of frequency, because there isn't an equivalent to it in their experience. A private vehicle is ready to go when you are, but transit is not going until it comes. High frequency means transit is coming soon, which means that it approximate the feeling of liberty you have with your private vehicle - that you can go anytime. Frequency is freedom!
